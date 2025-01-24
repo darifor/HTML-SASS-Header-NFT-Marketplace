@@ -13,7 +13,7 @@
 <img src="marketplace-resume.png">
 
 > [!WARNING]
-> Este encabezado está diseñado para ofrecer una experiencia visual óptima en pantallas con una resolución de 1200px. De este modo se garantiza que los elementos visuales y la disposición del contenido se presenten de manera atractiva y efectiva en pantallas de este tamaño. 🖥️
+> Este encabezado está diseñado para ofrecer una experiencia visual óptima en pantallas con una resolución mínima de 1200px. De este modo se garantiza que los elementos visuales y la disposición del contenido se presenten de manera atractiva y efectiva en pantallas de este tamaño. 🖥️
 
 ## Uso :point_left:
 <p>Puedes reutilizar el código para tu propio proyecto web. Simplemente descárgate el repositorio y añádele los cambios necesarios para integrarlo en tu sitio.</p>
